@@ -1,3 +1,3 @@
-function f1(){
-    console.log("fhdjkh");
+function f2(){
+    console.log("kjhsaasfsdfffffffffffffffffffdgfgdfg");
 }
